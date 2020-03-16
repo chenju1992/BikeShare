@@ -1,2 +1,2 @@
 # BikeShare
-This project using the bikeshare dataset in SF to calcalate the rentetion rate and user's mileage.
+This project using the bike share dataset in SF to calculate the retention rate and user's mileage.
